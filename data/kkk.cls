@@ -1,0 +1,9 @@
+politics
+enter
+sme
+north
+medical
+fin
+etc
+it
+const
